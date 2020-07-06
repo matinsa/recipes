@@ -27,7 +27,7 @@
 				<key>app_path</key>
 				<string>%RECIPE_CACHE_DIR%/%NAME%/DEPNotify.app</string>
 				<key>pkg_path</key>
-				<string>%RECIPE_CACHE_DIR%/%NAME%/DEPNotify-%version%.app</string>
+				<string>%RECIPE_CACHE_DIR%/DEPNotify-%version%.pkg</string>
 			</dict>
 			<key>Processor</key>
 			<string>AppPkgCreator</string>
