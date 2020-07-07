@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.matinsa.download.Spectacle</string>
+	<string>com.github.jaharmi.download.Spectacle</string>
 	<key>Process</key>
 	<array>
 		<dict>
