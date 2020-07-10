@@ -42,7 +42,7 @@
 				<key>result_output_var_name</key>
 				<string>dmg_url</string>
 				<key>url</key>
-				<string>https://my.vmware.com%download_url%</string>
+				<string>https://download3.vmware.com%download_url%</string>
 			</dict>
 			<key>Processor</key>
 			<string>URLTextSearcher</string>
